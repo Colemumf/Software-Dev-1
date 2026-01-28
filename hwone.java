@@ -10,6 +10,8 @@ public class hwone {
         int num2=37;
         System.out.println(num1+num2);
 
+        
+        //Cole Mumford 1/28/26
         //I learned how to assign variables to certain things based off of what they are.(Words, numbers booleans)
         //I also learned how to take input from the user by importing and using scanner and 
         //I learned concatenation
